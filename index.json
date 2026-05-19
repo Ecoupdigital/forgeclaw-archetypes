@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-19T04:37:45.000Z",
+  "archetypes": [
+    {
+      "handle": "ecoup",
+      "name": "solo-builder-br",
+      "displayName": "Solo Builder BR",
+      "description": "Dev indie BR construindo produtos com Claude Code, foco em execucao tecnica",
+      "tags": ["dev", "indie", "br", "bun", "nextjs"],
+      "tarballUrl": "file:///home/projects/forgeclaw-archetypes/bundles/ecoup--solo-builder-br-0.1.0.tar.gz",
+      "hash": "2f359d0c3e7d1f2226f640df712c6af63ac691d4a1e90d6ad9b229717a0250b5",
+      "size": 3776,
+      "version": "0.1.0",
+      "license": "MIT",
+      "author": "EcoUp Digital",
+      "createdAt": "2026-05-19T04:37:35.719Z",
+      "updatedAt": "2026-05-19T04:37:35.719Z"
+    },
+    {
+      "handle": "ecoup",
+      "name": "criador-conteudo-br",
+      "displayName": "Criador de Conteudo BR",
+      "description": "Criador BR de conteudo no Instagram/YouTube/TikTok, scripts + edicao + analytics",
+      "tags": ["criador", "conteudo", "br", "instagram", "youtube"],
+      "tarballUrl": "file:///home/projects/forgeclaw-archetypes/bundles/ecoup--criador-conteudo-br-0.1.0.tar.gz",
+      "hash": "529fee896f2ce173cd0826bbbd063c2e32e49d27e4ecb3f0f6d288c5293c7b4e",
+      "size": 3648,
+      "version": "0.1.0",
+      "license": "MIT",
+      "author": "EcoUp Digital",
+      "createdAt": "2026-05-19T04:37:41.450Z",
+      "updatedAt": "2026-05-19T04:37:41.450Z"
+    },
+    {
+      "handle": "ecoup",
+      "name": "agencia-freela-br",
+      "displayName": "Agencia/Freela BR",
+      "description": "Agencia ou freela BR servindo varios clientes, foco em entrega e organizacao",
+      "tags": ["agencia", "freela", "br"],
+      "tarballUrl": "file:///home/projects/forgeclaw-archetypes/bundles/ecoup--agencia-freela-br-0.1.0.tar.gz",
+      "hash": "7149f509348a9de478891d2db93f7a578ea735277040671e0aecffe0e239fe63",
+      "size": 3514,
+      "version": "0.1.0",
+      "license": "MIT",
+      "author": "EcoUp Digital",
+      "createdAt": "2026-05-19T04:37:43.000Z",
+      "updatedAt": "2026-05-19T04:37:43.000Z"
+    }
+  ]
+}
